@@ -1,1 +1,0 @@
-This is content of example txt file from ANotherTestBranch
